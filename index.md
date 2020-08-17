@@ -27,3 +27,10 @@
 1. [Sewell DK (2018). Simultaneous and temporal autoregressive network models. Network Science 6(2):204-231.](./dan/simultaneous_and_temporal_autoregressive_network_models.pdf)
 1. [Jang H, Justice S, Polgreen PM, Segre AM, Sewell DK, Pemmaraju SV (2019). Evaluating architectural changes to reduce infection spread in a dialysis unit. International Conference on Advances in Social Networks Analysis and Mining '19](./dan/evaluating_architectural_changes_to_alter_pathogen_dynamics_in_a_dialysis_unit.pdf)
 1. [Sewell DK (2020). Model-based edge clustering. Journal of Computational and Graphical Statistics  (Accepted/In Press)](./dan/model_based_edge_clustering.pdf)
+
+### Kai Wang
+1. Wang K (2020) Relating parameters in conditional, marginalized, and reduced logistic models when the mediator is binary. Statistics and Its Interface (in press)
+1. [Wang K (2020) Direct effect and indirect effect on an outcome under nonlinear modeling. The International Journal of Biostatistics 1 (ahead-of-print)](https://www.degruyter.com/view/journals/ijb/ahead-of-print/article-10.1515-ijb-2019-0158/article-10.1515-ijb-2019-0158.xml)
+1. [Chen Z, Wang K (2019) Gene-based sequential burden association test. Statistics in medicine 38 (13):2353-2363](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.8111)
+1. [Wang K (2019) Maximum likelihood analysis of linear mediation models with treatment-mediator interaction. Psychometrika 84 (3):719–748](https://link.springer.com/article/10.1007/s11336-019-09670-9)
+1. [Wang K (2018) Understanding Power Anomalies in Mediation Analysis. Psychometrika 83 (2):387-406](https://link.springer.com/article/10.1007/s11336-017-9598-1)

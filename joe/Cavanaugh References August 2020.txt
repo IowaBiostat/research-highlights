@@ -1,0 +1,20 @@
+J. Cavanaugh References
+
+
+Riedle B, Neath AA, and Cavanaugh JE (2020).  Reconceptualizing the p-value from a likelihood ratio test: a probabilistic pairwise comparison of models based on Kullback-Leibler discrepancy measures, Journal of Applied Statistics.
+DOI: 10.1080/02664763.2020.1754360.
+
+
+Cavanaugh JE, Neath AA (2019). The Akaike information criterion: Background, derivation, properties, application, interpretation, and refinements. WIREs Computational Statistics, 11:e1460.   
+DOI: 10.1002/wics.1460. 
+
+
+Peterson RA, Cavanaugh JE (2019). Ordered quantile normalization: A semiparametric transformation built for the cross-validation era. Journal of Applied Statistics.  
+DOI: 10.1080/02664763.2019.1630372.
+
+
+Zhang T, Cavanaugh JE (2016). A multistage algorithm for best–subset model selection based on the Kullback–Leibler discrepancy. Computational Statistics, 31(2):643-669.  DOI: 10.1007/s00180-015-0584-8. 
+
+
+Yang M, Cavanaugh JE, Zamba GJ (2015). State-space models for count time series with excess zeros. Statistical Modelling, 15(1):70-90.   
+DOI:  10.1177/1471082X14535530. 

@@ -14,6 +14,13 @@
 1. [Zhang T, Cavanaugh JE (2016). A multistage algorithm for best–subset model selection based on the Kullback–Leibler discrepancy. Computational Statistics, 31(2):643-669.  DOI: 10.1007/s00180-015-0584-8.](./joe/Zhang_Cavanaugh_2016.pdf)
 1. [Yang M, Cavanaugh JE, Zamba GJ (2015). State-space models for count time series with excess zeros. Statistical Modelling, 15(1):70-90. DOI:  10.1177/1471082X14535530.](./joe/Yang_Cavanaugh_Zamba_2015.pdf)
 
+### Ryan Cho
+1. [Cho, H., Kim, S. and Lee, M. (2020). Adjusting a subject-specific time of event in longitudinal studies, Statistical Methods in Medical Research 29, 1787-1798](./ryan/1-Cho_Kim_Lee_SMMR_2020.pdf)
+1. [Kim, S., Cho, H. and Wu, C. (2020). Risk-predictive probabilities and dynamic nonparametric conditional quantile models for longitudinal analysis, Statistica Sinica, in press](./ryan/2-Kim_Cho_Wu_Sinica_2020.pdf)
+1. [Andrews, N. and Cho, H.  (2018). Validating effectiveness of subgroup identification for longitudinal data, Statistics in Medicine 37, 98-106](./ryan/4-Andrews_Cho_SIM_2018.pdf)
+1. [Cho, H. (2018). Statistical inference in a growth curve quantile regression model for longitudinal data, Biometrics 74, 855-862](./ryan/3-Cho_Biometrics_2018.pdf)
+1. [Cho, H., Hong, H. G. and Kim, M. O. (2016). Efficient quantile marginal regression for longitudinal data with dropouts, Biostatistics 17, 561-575](./ryan/5-Cho_Hong_Kim_Biostataistics_2016.pdf)
+
 ###  Jake Oleson
 1. [Kliethermes SA, Oleson JJ. A Bayesian approach to functional mixed effect modeling with binomial outcomes. Statistics in Medicine, 33(18):3130-3146, 2014](./jake/Kliethermes2014.pdf)
 1. [VanBuren J, Oleson JJ, Zamba GKD, Wall M. Integrating independent spatio-temporal replications to assess population trends in disease spread. Statistics in Medicine. 35(28):5210-5221, 2016.  PMID: 27453437](./jake/VanBuren2016.pdf)

@@ -7,6 +7,13 @@
 1. [Bayman EO, Dexter F, Todd MM. Prolonged Operative Time to Extubation Is Not a Useful Metric for Comparing the Performance of Individual Anesthesia Providers. Anesthesiology. 2015;124(2):322-338. Epub 2015/11/07. doi: 10.1097/aln.0000000000000920. PubMed PMID: 26545101](./emine/Bayman15prolonged.pdf)
 1. [Bayman EO, Parekh KR, Keech J, Selte A, Brennan TJ. A Prospective Study of Chronic Pain after Thoracic Surgery. Anesthesiology. 2017;126(5):938-951. doi: 10.1097/ALN.0000000000001576. PubMed PMID: 28248713; PMCID: PMC5395336](./emine/Bayman17prospective.pdf)
 
+### Patrick Breheny
+1. [Breheny P (2018). Marginal false discovery rates for penalized regression models. <i>Biostatistics</i>, <b>20</b>: 299-314.](https://myweb.uiowa.edu/pbreheny/pdf/Breheny2018.pdf)
+1. [Breheny P (2015). The group exponential lasso for bi-level variable selection. <i>Biometrics</i>, <b>71</b>: 731&ndash;740.](https://myweb.uiowa.edu/pbreheny/pdf/Breheny2015a.pdf)
+1. [Breheny P and Huang J (2015). Group descent algorithms for nonconvex penalized linear and logistic regression models with grouped predictors. <i>Statistics and Computing</i>, <b>25</b>: 173-187.](https://myweb.uiowa.edu/pbreheny/pdf/Breheny2015.pdf)
+1. [Breheny P and Huang J (2011). Coordinate descent algorithms for nonconvex penalized regression, with applications to biological feature selection. <i>Annals of Applied Statistics</i>, <b>5</b>: 232&ndash;253.](https://myweb.uiowa.edu/pbreheny/pdf/Breheny2011.pdf)
+1. [Breheny P and Burchett W (2017). Visualization of regression models using <tt>visreg</tt>. <i>The R Journal</i>, <b>9</b>: 56&ndash;71.](https://journal.r-project.org/archive/2017/RJ-2017-046/RJ-2017-046.pdf)
+
 ### Joe Cavanaugh
 1. [Riedle B, Neath AA, and Cavanaugh JE (2020).  Reconceptualizing the p-value from a likelihood ratio test: a probabilistic pairwise comparison of models based on Kullback-Leibler discrepancy measures, Journal of Applied Statistics. DOI: 10.1080/02664763.2020.1754360.](./joe/Riedle_Neath_Cavanaugh_2020.pdf)
 1. [Cavanaugh JE, Neath AA (2019). The Akaike information criterion: Background, derivation, properties, application, interpretation, and refinements. WIREs Computational Statistics, 11:e1460. DOI: 10.1002/wics.1460.](./joe/Cavanaugh_Neath_2019.pdf)

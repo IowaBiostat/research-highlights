@@ -14,6 +14,13 @@
 1. [Breheny P and Huang J (2011). Coordinate descent algorithms for nonconvex penalized regression, with applications to biological feature selection. <i>Annals of Applied Statistics</i>, <b>5</b>: 232&ndash;253.](https://myweb.uiowa.edu/pbreheny/pdf/Breheny2011.pdf)
 1. [Breheny P and Burchett W (2017). Visualization of regression models using <tt>visreg</tt>. <i>The R Journal</i>, <b>9</b>: 56&ndash;71.](https://journal.r-project.org/archive/2017/RJ-2017-046/RJ-2017-046.pdf)
 
+### Grant Brown
+1. [Phillip K, Nair N, Kamalika S, Azevedo JF, Brown GD, Petersen CA, Gomes-Solecki M. (2021). Maternal transfer of neutralizing antibodies to B. burgdorferi OspA after oral vaccination of the rodent reservoir. <i>Vaccine</i>. DOI: 10.1016/j.vaccine.2021.06.025](./grant/solecki.pdf)
+1. [Seedorff N, Brown G D (2021). totalvis: A Principal Components Approach to Visualizing Total Effects in Black Box Models. <i>SN Computer Science</i>. DOI: 10.1007/s42979-021-00560-5](./grant/seedorff.pdf)
+1. [Brown GD, Oleson JJ, Porter AT (2016). An empirically adjusted approach to reproductive number estimation for stochastic compartmental models: A case study of two Ebola outbreaks. <i>Biometrics</i>. DOI: 10.1111/biom.12432](./grant/reproductive.pdf)
+1. [Brown GD, Porter AT, Oleson JJ, Hinman JA, (2018). Approximate Bayesian computation for spatial SEIR(S) epidemic models.  <i>Spatial and Spatiotemporal Epidemiology.</i> DOI: 10.1016/j.sste.2017.11.001](./grant/abc.pdf)
+1. [Ozanne MV, Brown GD, Toepp AJ, Scorza BM, Oleson JJ, Wilson ME, Petersen CA (2020). Bayesian Compartmental Models and Associated Reproductive Numbers for an Infection with Multiple Transmission Modes. <i>Biometrics</i>. DOI: 10.1111/biom.13192](./grant/ozanne.pdf)
+
 ### Joe Cavanaugh
 1. [Riedle B, Neath AA, and Cavanaugh JE (2020).  Reconceptualizing the p-value from a likelihood ratio test: a probabilistic pairwise comparison of models based on Kullback-Leibler discrepancy measures, Journal of Applied Statistics. DOI: 10.1080/02664763.2020.1754360.](./joe/Riedle_Neath_Cavanaugh_2020.pdf)
 1. [Cavanaugh JE, Neath AA (2019). The Akaike information criterion: Background, derivation, properties, application, interpretation, and refinements. WIREs Computational Statistics, 11:e1460. DOI: 10.1002/wics.1460.](./joe/Cavanaugh_Neath_2019.pdf)

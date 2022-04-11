@@ -47,7 +47,7 @@
 1. [Sewell DK (2017). Heterogeneous susceptibilities in social influence models. Social Networks, 52:135-144.](/dan/heterogeneous_susceptibilities_in_social_influence_models.pdf)
 1. [Sewell DK (2018). Simultaneous and temporal autoregressive network models. Network Science 6(2):204-231.](./dan/simultaneous_and_temporal_autoregressive_network_models.pdf)
 1. [Jang H, Justice S, Polgreen PM, Segre AM, Sewell DK, Pemmaraju SV (2019). Evaluating architectural changes to reduce infection spread in a dialysis unit. International Conference on Advances in Social Networks Analysis and Mining '19](./dan/evaluating_architectural_changes_to_alter_pathogen_dynamics_in_a_dialysis_unit.pdf)
-1. [Sewell DK (2020). Model-based edge clustering. Journal of Computational and Graphical Statistics  (Accepted/In Press)](./dan/model_based_edge_clustering.pdf)
+1. [Sewell DK (2020). Model-based edge clustering. Journal of Computational and Graphical Statistics, 30(2):390-405.](./dan/model_based_edge_clustering.pdf)
 
 ### Kai Wang
 1. Wang K (2020) Relating parameters in conditional, marginalized, and reduced logistic models when the mediator is binary. Statistics and Its Interface (in press)

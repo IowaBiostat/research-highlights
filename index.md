@@ -28,13 +28,6 @@
 1. [Zhang T, Cavanaugh JE (2016). A multistage algorithm for best–subset model selection based on the Kullback–Leibler discrepancy. Computational Statistics, 31(2):643-669.  DOI: 10.1007/s00180-015-0584-8.](./joe/Zhang_Cavanaugh_2016.pdf)
 1. [Yang M, Cavanaugh JE, Zamba GJ (2015). State-space models for count time series with excess zeros. Statistical Modelling, 15(1):70-90. DOI:  10.1177/1471082X14535530.](./joe/Yang_Cavanaugh_Zamba_2015.pdf)
 
-### Ryan Cho
-1. [Cho, H., Kim, S. and Lee, M. (2020). Adjusting a subject-specific time of event in longitudinal studies, Statistical Methods in Medical Research 29, 1787-1798](./ryan/1-Cho_Kim_Lee_SMMR_2020.pdf)
-1. [Kim, S., Cho, H. and Wu, C. (2020). Risk-predictive probabilities and dynamic nonparametric conditional quantile models for longitudinal analysis, Statistica Sinica, in press](./ryan/2-Kim_Cho_Wu_Sinica_2020.pdf)
-1. [Andrews, N. and Cho, H.  (2018). Validating effectiveness of subgroup identification for longitudinal data, Statistics in Medicine 37, 98-106](./ryan/4-Andrews_Cho_SIM_2018.pdf)
-1. [Cho, H. (2018). Statistical inference in a growth curve quantile regression model for longitudinal data, Biometrics 74, 855-862](./ryan/3-Cho_Biometrics_2018.pdf)
-1. [Cho, H., Hong, H. G. and Kim, M. O. (2016). Efficient quantile marginal regression for longitudinal data with dropouts, Biostatistics 17, 561-575](./ryan/5-Cho_Hong_Kim_Biostataistics_2016.pdf)
-
 ###  Jake Oleson
 1. [Kliethermes SA, Oleson JJ. A Bayesian approach to functional mixed effect modeling with binomial outcomes. Statistics in Medicine, 33(18):3130-3146, 2014](./jake/Kliethermes2014.pdf)
 1. [VanBuren J, Oleson JJ, Zamba GKD, Wall M. Integrating independent spatio-temporal replications to assess population trends in disease spread. Statistics in Medicine. 35(28):5210-5221, 2016.  PMID: 27453437](./jake/VanBuren2016.pdf)
@@ -43,11 +36,11 @@
 1. [Ozanne M, Brown G, Toepp A, Scorza B, Oleson J, Wilson M, Petersen C. Bayesian compartmental models and associated reproductive numbers for an infection with multiple transmission models. Biometrics. (early view published online) 2020.](./jake/Ozanne2019.pdf)
 
 ### Dan Sewell
-1. [Sewell D, Chen Y (2015). Latent space models for dynamic networks. The Journal of the American Statistical Association 110(512):1646-1657.](./dan/latent_space_models_for_dynamic_networks.pdf)
-1. [Sewell DK (2017). Heterogeneous susceptibilities in social influence models. Social Networks, 52:135-144.](/dan/heterogeneous_susceptibilities_in_social_influence_models.pdf)
-1. [Sewell DK (2018). Simultaneous and temporal autoregressive network models. Network Science 6(2):204-231.](./dan/simultaneous_and_temporal_autoregressive_network_models.pdf)
-1. [Jang H, Justice S, Polgreen PM, Segre AM, Sewell DK, Pemmaraju SV (2019). Evaluating architectural changes to reduce infection spread in a dialysis unit. International Conference on Advances in Social Networks Analysis and Mining '19](./dan/evaluating_architectural_changes_to_alter_pathogen_dynamics_in_a_dialysis_unit.pdf)
 1. [Sewell DK (2020). Model-based edge clustering. Journal of Computational and Graphical Statistics, 30(2):390-405.](./dan/model_based_edge_clustering.pdf)
+1. [Sewell DK, Baker, KK (2025). Estimating Risk Factors for Pathogenic Dose AccrualFrom Longitudinal Data. Statistics in Medicine, 44(23-34):e70291.](./dan/dare.pdf)
+1. [Sewell, D. (2024). Posterior shrinkage towards linear subspaces. Bayesian Analysis, 1 (1), 1–24.](./dan/subset.pdf)
+1. [Jang H, Justice S, Polgreen PM, Segre AM, Sewell DK, Pemmaraju SV (2019). Evaluating architectural changes to reduce infection spread in a dialysis unit. International Conference on Advances in Social Networks Analysis and Mining '19](./dan/evaluating_architectural_changes_to_alter_pathogen_dynamics_in_a_dialysis_unit.pdf)
+1. [Medgyesi, D., Sewell, D. K., Senesac, R., Cumming, O., Mumma, J., & Baker, K. K. (2019). The landscape of enteric pathogen exposure for children during play in public domains of low-income, kisumu, kenya. PLOS Neglected Tropical Diseases, 13 (3), e0007292.](./dan/landscapeOfEntericPathogenExposure.pdf)
 
 ### Kai Wang
 1. [Wang, K. (2021). Relating parameters in conditional, marginalized, and marginal logistic models when the mediator is binary. Statistics and Its Interface, 14(2), 109-114.](https://www.intlpress.com/site/pub/files/_fulltext/journals/sii/2021/0014/0002/SII-2021-0014-0002-a003.pdf)
